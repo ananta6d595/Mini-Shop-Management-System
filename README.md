@@ -4,4 +4,4 @@ It is console based shop management system written in C mainly admin based. Ther
 # How-to-operate
 To access admin email is "ad" and password is "pass". 
 For user access email is "ccc" and password is "pass". 
-In future more than one user with different name can be added in system.
+-> The feature to add more than one user with different name will be added in future.
